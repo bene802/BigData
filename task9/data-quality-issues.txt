@@ -1,0 +1,4 @@
+There are some dirty data in CSV profile. For example, there are commas in 'plate_id'.
+In task1, we need to handle some data that exits in open-violations.csv but not in parking-violations.csv. 
+In task6, some outputs are abnormal because of the dirty data in 'plate_id'.
+In task8, some 'color' columns and some 'make' colums are blank. We need to use 'NONE' to replace ''. 
